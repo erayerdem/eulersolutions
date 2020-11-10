@@ -3,16 +3,22 @@ package main
 import "fmt"
 
 func main() {
-	toplam :=0
+
+	var ints [1001]int
+	sum:=0
 	for i := 0; i < 1000 ; i+=3 {
-			toplam+=i;
+			ints[i]=1
 	}
 
 	for i := 0; i < 1000 ; i+=5 {
-		if (i%3!=0) {
-			toplam+=i;}
+		ints[i]=1
 	}
 
-	fmt.Println(toplam)
+	for i1, i2 := range ints {
+		if i2==1 {
+		sum+=i1
+		}
+	}
 
+	fmt.Println(sum)
 }
