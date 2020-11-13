@@ -63,16 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build helloworrld/10_summationofprimes ">
-    <configuration name="go build helloworrld/06_sumsquaredifference " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="eulersolutions" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/06_sumsquaredifference /main.go" />
-      <package value="helloworrld/06_sumsquaredifference " />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build helloworrld/11_largestproductinagrid ">
     <configuration name="go build helloworrld/07_10001stprime " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="eulersolutions" />
       <working_directory value="$PROJECT_DIR$" />
@@ -109,13 +100,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build helloworrld/11_largestproductinagrid " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/11_largestproductinagrid /main.go" />
+      <package value="helloworrld/11_largestproductinagrid " />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build helloworrld/11_largestproductinagrid " />
         <item itemvalue="Go Build.go build helloworrld/10_summationofprimes " />
         <item itemvalue="Go Build.go build helloworrld/09_specialpythagoreantriplet " />
         <item itemvalue="Go Build.go build helloworrld/08_largestproductinaseries" />
         <item itemvalue="Go Build.go build helloworrld/07_10001stprime " />
-        <item itemvalue="Go Build.go build helloworrld/06_sumsquaredifference " />
       </list>
     </recent_temporary>
   </component>
@@ -133,27 +133,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1605132089404">
+    <state width="1397" height="211" key="GridCell.Tab.0.bottom" timestamp="1605301277984">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.23.1397.877@0.23.1397.877" timestamp="1605132089404" />
-    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1605132089403">
+    <state width="1397" height="211" key="GridCell.Tab.0.bottom/0.23.1397.877@0.23.1397.877" timestamp="1605301277984" />
+    <state width="1397" height="211" key="GridCell.Tab.0.center" timestamp="1605301277983">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.center/0.23.1397.877@0.23.1397.877" timestamp="1605132089403" />
-    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1605132089403">
+    <state width="1397" height="211" key="GridCell.Tab.0.center/0.23.1397.877@0.23.1397.877" timestamp="1605301277983" />
+    <state width="1397" height="211" key="GridCell.Tab.0.left" timestamp="1605301277983">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.left/0.23.1397.877@0.23.1397.877" timestamp="1605132089403" />
-    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1605132089403">
+    <state width="1397" height="211" key="GridCell.Tab.0.left/0.23.1397.877@0.23.1397.877" timestamp="1605301277983" />
+    <state width="1397" height="211" key="GridCell.Tab.0.right" timestamp="1605301277984">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.right/0.23.1397.877@0.23.1397.877" timestamp="1605132089403" />
+    <state width="1397" height="211" key="GridCell.Tab.0.right/0.23.1397.877@0.23.1397.877" timestamp="1605301277984" />
     <state width="1397" height="305" key="GridCell.Tab.1.bottom" timestamp="1605132089400">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
