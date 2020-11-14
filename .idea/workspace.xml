@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0827aa58-0b54-40c6-96d8-f84383673223" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_largestproductinagrid /main.go" beforeDir="false" afterPath="$PROJECT_DIR$/11_largestproductinagrid /main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,40 +64,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build helloworrld/11_largestproductinagrid ">
-    <configuration name="go build helloworrld/07_10001stprime " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build helloworrld/14_longestcollatzsequence ">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="eulersolutions" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/07_10001stprime /main.go" />
-      <package value="helloworrld/07_10001stprime " />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build helloworrld/08_largestproductinaseries" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="eulersolutions" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/08_largestproductinaseries/main.go" />
-      <package value="helloworrld/08_largestproductinaseries" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build helloworrld/09_specialpythagoreantriplet " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="eulersolutions" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/09_specialpythagoreantriplet /main.go" />
-      <package value="helloworrld/09_specialpythagoreantriplet " />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build helloworrld/10_summationofprimes " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="eulersolutions" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/10_summationofprimes /main.go" />
-      <package value="helloworrld/10_summationofprimes " />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -109,13 +83,59 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build helloworrld/12_highlydivisibletriangulanumber " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/12_highlydivisibletriangulanumber /main.go" />
+      <package value="helloworrld/12_highlydivisibletriangulanumber " />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworrld/13_largesum " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/13_largesum /main.go" />
+      <package value="helloworrld/13_largesum " />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworrld/14_longestcollatzsequence " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/14_longestcollatzsequence /main.go" />
+      <package value="helloworrld/14_longestcollatzsequence " />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworrld/baklava" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/baklava/main.go" />
+      <package value="helloworrld/baklava" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="eulersolutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build helloworrld/14_longestcollatzsequence " />
+        <item itemvalue="Go Build.go build helloworrld/13_largesum " />
+        <item itemvalue="Go Build.go build helloworrld/12_highlydivisibletriangulanumber " />
+        <item itemvalue="Go Build.go build helloworrld/baklava" />
         <item itemvalue="Go Build.go build helloworrld/11_largestproductinagrid " />
-        <item itemvalue="Go Build.go build helloworrld/10_summationofprimes " />
-        <item itemvalue="Go Build.go build helloworrld/09_specialpythagoreantriplet " />
-        <item itemvalue="Go Build.go build helloworrld/08_largestproductinaseries" />
-        <item itemvalue="Go Build.go build helloworrld/07_10001stprime " />
       </list>
     </recent_temporary>
   </component>
@@ -139,22 +159,22 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1397" height="211" key="GridCell.Tab.0.bottom" timestamp="1605301277984">
+    <state width="1397" height="200" key="GridCell.Tab.0.bottom" timestamp="1605393903008">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="211" key="GridCell.Tab.0.bottom/0.23.1397.877@0.23.1397.877" timestamp="1605301277984" />
-    <state width="1397" height="211" key="GridCell.Tab.0.center" timestamp="1605301277983">
+    <state width="1397" height="200" key="GridCell.Tab.0.bottom/0.23.1397.877@0.23.1397.877" timestamp="1605393903008" />
+    <state width="1397" height="200" key="GridCell.Tab.0.center" timestamp="1605393903007">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="211" key="GridCell.Tab.0.center/0.23.1397.877@0.23.1397.877" timestamp="1605301277983" />
-    <state width="1397" height="211" key="GridCell.Tab.0.left" timestamp="1605301277983">
+    <state width="1397" height="200" key="GridCell.Tab.0.center/0.23.1397.877@0.23.1397.877" timestamp="1605393903007" />
+    <state width="1397" height="200" key="GridCell.Tab.0.left" timestamp="1605393903006">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="211" key="GridCell.Tab.0.left/0.23.1397.877@0.23.1397.877" timestamp="1605301277983" />
-    <state width="1397" height="211" key="GridCell.Tab.0.right" timestamp="1605301277984">
+    <state width="1397" height="200" key="GridCell.Tab.0.left/0.23.1397.877@0.23.1397.877" timestamp="1605393903006" />
+    <state width="1397" height="200" key="GridCell.Tab.0.right" timestamp="1605393903008">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state width="1397" height="211" key="GridCell.Tab.0.right/0.23.1397.877@0.23.1397.877" timestamp="1605301277984" />
+    <state width="1397" height="200" key="GridCell.Tab.0.right/0.23.1397.877@0.23.1397.877" timestamp="1605393903008" />
     <state width="1397" height="305" key="GridCell.Tab.1.bottom" timestamp="1605132089400">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
@@ -171,9 +191,13 @@
       <screen x="0" y="23" width="1397" height="877" />
     </state>
     <state width="1397" height="305" key="GridCell.Tab.1.right/0.23.1397.877@0.23.1397.877" timestamp="1605132089400" />
-    <state x="428" y="200" width="639" height="524" key="StructurePopup" timestamp="1605124796650">
+    <state x="428" y="200" width="639" height="524" key="StructurePopup" timestamp="1605301766581">
       <screen x="0" y="23" width="1397" height="877" />
     </state>
-    <state x="428" y="200" width="639" height="524" key="StructurePopup/0.23.1397.877@0.23.1397.877" timestamp="1605124796650" />
+    <state x="428" y="200" width="639" height="524" key="StructurePopup/0.23.1397.877@0.23.1397.877" timestamp="1605301766581" />
+    <state x="363" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1605392883354">
+      <screen x="0" y="23" width="1397" height="877" />
+    </state>
+    <state x="363" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1397.877@0.23.1397.877" timestamp="1605392883354" />
   </component>
 </project>

@@ -30,6 +30,7 @@ func main() {
 		}
 
 	}
+
 	// left to rigt
 	for i := 0; i <17 ; i++ {
 		for j := 0; j <17 ; j++ {
